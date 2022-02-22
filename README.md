@@ -1,2 +1,1 @@
-# Assistente-Firebird---Trigger
-Projeto assistente para a criação de Triggers usando Banco de Dados Firebird SQL.
+# Assistente para a criação de Triggers para Banco de Dados Firebiord SQL
