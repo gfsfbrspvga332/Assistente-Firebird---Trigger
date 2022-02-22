@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="AFTrigger.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unitprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="formPrincipal"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unitPrincipal"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="201"/>
+        <CursorPos X="19" Y="227"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="13" HistoryIndex="12">
+      <Position1>
+        <Filename Value="unitprincipal.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="unitprincipal.pas"/>
+        <Caret Line="7" Column="14"/>
+      </Position2>
+      <Position3>
+        <Filename Value="unitprincipal.pas"/>
+        <Caret Line="51" Column="24" TopLine="26"/>
+      </Position3>
+      <Position4>
+        <Filename Value="unitprincipal.pas"/>
+        <Caret Line="54" Column="12" TopLine="28"/>
+      </Position4>
+      <Position5>
+        <Filename Value="unitprincipal.pas"/>
+        <Caret Line="55" Column="18" TopLine="32"/>
+      </Position5>
+      <Position6>
+        <Filename Value="unitprincipal.pas"/>
+        <Caret Line="73" Column="20" TopLine="56"/>
+      </Position6>
+      <Position7>
+        <Filename Value="unitprincipal.pas"/>
+        <Caret Line="84" Column="26" TopLine="58"/>
+      </Position7>
+      <Position8>
+        <Filename Value="unitprincipal.pas"/>
+        <Caret Line="52" Column="34" TopLine="37"/>
+      </Position8>
+      <Position9>
+        <Filename Value="unitprincipal.pas"/>
+        <Caret Line="90" Column="11" TopLine="73"/>
+      </Position9>
+      <Position10>
+        <Filename Value="unitprincipal.pas"/>
+        <Caret Line="103" Column="34" TopLine="91"/>
+      </Position10>
+      <Position11>
+        <Filename Value="unitprincipal.pas"/>
+        <Caret Line="124" Column="21" TopLine="106"/>
+      </Position11>
+      <Position12>
+        <Filename Value="unitprincipal.pas"/>
+        <Caret Line="201" Column="21" TopLine="138"/>
+      </Position12>
+      <Position13>
+        <Filename Value="unitprincipal.pas"/>
+        <Caret Line="65" Column="17"/>
+      </Position13>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
