@@ -225,6 +225,7 @@ begin
 
   Memo1.SetFocus;
   Memo1.SelectAll;
+  Memo1.CopyToClipboard;
 end;
 
 end.

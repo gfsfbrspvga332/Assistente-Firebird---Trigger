@@ -1,7 +1,7 @@
 object formPrincipal: TformPrincipal
-  Left = 566
+  Left = 1720
   Height = 712
-  Top = 54
+  Top = 1220
   Width = 689
   BorderIcons = [biSystemMenu, biMinimize]
   BorderStyle = bsSingle
@@ -17,14 +17,13 @@ object formPrincipal: TformPrincipal
   Font.Style = [fsBold]
   OnShow = FormShow
   Position = poDesktopCenter
-  LCLVersion = '2.0.12.0'
+  LCLVersion = '2.2.0.4'
   object Label1: TLabel
     Left = 8
     Height = 30
     Top = 8
     Width = 169
     Caption = 'CREATE TRIGGER'
-    ParentColor = False
   end
   object Edit1: TEdit
     Left = 184
@@ -32,9 +31,10 @@ object formPrincipal: TformPrincipal
     Top = 6
     Width = 120
     Alignment = taCenter
+    Color = clScrollBar
     Enabled = False
     TabOrder = 0
-    Text = 'NOME'
+    Text = '<NOME>'
   end
   object Label2: TLabel
     Left = 312
@@ -42,7 +42,6 @@ object formPrincipal: TformPrincipal
     Top = 8
     Width = 41
     Caption = 'FOR'
-    ParentColor = False
   end
   object Edit2: TEdit
     Left = 360
@@ -51,8 +50,9 @@ object formPrincipal: TformPrincipal
     Width = 176
     Alignment = taCenter
     CharCase = ecUppercase
+    Color = clScrollBar
     TabOrder = 1
-    Text = 'TABELA'
+    Text = '<TABELA>'
   end
   object Label3: TLabel
     Left = 8
@@ -60,7 +60,6 @@ object formPrincipal: TformPrincipal
     Top = 56
     Width = 97
     Caption = 'ACTIVATE'
-    ParentColor = False
   end
   object RadioGroup1: TRadioGroup
     Left = 120
@@ -119,7 +118,6 @@ object formPrincipal: TformPrincipal
     Top = 152
     Width = 92
     Caption = 'POSIÇÃO'
-    ParentColor = False
   end
   object SpinEdit1: TSpinEdit
     Left = 120
@@ -142,6 +140,7 @@ object formPrincipal: TformPrincipal
     Height = 506
     Top = 200
     Width = 672
+    Color = clScrollBar
     Font.CharSet = ANSI_CHARSET
     Font.Color = clBlack
     Font.Height = -12
@@ -159,7 +158,8 @@ object formPrincipal: TformPrincipal
     Width = 136
     Alignment = taCenter
     CharCase = ecUppercase
+    Color = clScrollBar
     TabOrder = 2
-    Text = 'CAMPO'
+    Text = '<CAMPO>'
   end
 end
